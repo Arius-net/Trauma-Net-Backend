@@ -1,0 +1,4 @@
+# pg8000: driver DB-API 2.0 100% Python puro para PostgreSQL (evita bloqueo de DLL nativa por Windows Application Control)
+pg8000>=1.31,<2
+pymongo>=4.9,<5
+neo4j>=5.26,<6

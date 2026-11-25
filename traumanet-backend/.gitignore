@@ -1,0 +1,18 @@
+# Secretos y entorno
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
